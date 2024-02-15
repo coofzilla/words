@@ -1,0 +1,10 @@
+{
+  "name": "words",
+  "packageManager": "yarn@4.0.2",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

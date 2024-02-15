@@ -1,0 +1,14 @@
+{
+  "words": [
+    { "id": 1, "english": "example", "korean": "예", "counter": 0 },
+    { "id": 2, "english": "book", "korean": "책", "counter": 0 },
+    { "id": 3, "english": "apple", "korean": "사과", "counter": 0 },
+    { "id": 4, "english": "sun", "korean": "해", "counter": 0 },
+    { "id": 5, "english": "moon", "korean": "달", "counter": 0 },
+    { "id": 6, "english": "water", "korean": "물", "counter": 0 },
+    { "id": 7, "english": "flower", "korean": "꽃", "counter": 0 },
+    { "id": 8, "english": "mountain", "korean": "산", "counter": 0 },
+    { "id": 9, "english": "river", "korean": "강", "counter": 0 },
+    { "id": 10, "english": "sky", "korean": "하늘", "counter": 0 }
+  ]
+}
